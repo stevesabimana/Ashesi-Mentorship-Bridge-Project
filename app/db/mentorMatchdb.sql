@@ -10,7 +10,6 @@ CREATE TABLE User(
     email VARCHAR(50), 
     major VARCHAR(20),
     passwd VARCHAR(1000),
-    nationality VARCHAR(20)
 );
 
 CREATE TABLE Course(
